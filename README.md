@@ -25,10 +25,11 @@ The **LIDC-IDRI dataset** serves as a benchmark for developing computer-assisted
 ## Models Tested
 
 ### **1. UNet**  
-- Used for precise segmentation of lung nodules.
+- ![unet model Model](unet.png)
 
 ### **2. Nested UNet**  
-- Enhanced version with improved segmentation capabilities.
+- ![nested unet Model](nested unet.png)
+
 
 ## Model Weights
 
