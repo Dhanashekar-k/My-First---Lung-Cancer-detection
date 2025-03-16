@@ -28,7 +28,7 @@ The **LIDC-IDRI dataset** serves as a benchmark for developing computer-assisted
 - ![unet model Model](unet.png)
 
 ### **2. Nested UNet**  
-- ![nested unet Model](nested unet.png)
+- ![nested unet Model](nested_unet.png)
 
 
 ## Model Weights
